@@ -1,2 +1,2 @@
-# blackjack-card-game
-Simple game of Blackjack implemented using python
+# card-games
+Card games such as Memory and Blackjack implemented using python
